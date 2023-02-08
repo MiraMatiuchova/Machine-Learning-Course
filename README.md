@@ -11,4 +11,4 @@ M5 - 03 - Loops
 
 M5 - 04 - Functions
 
-SpaseX - 2 - EDA
+SpaceX - 2 - EDA
