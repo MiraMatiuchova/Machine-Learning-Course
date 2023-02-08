@@ -10,3 +10,5 @@ M5 - 02 - Conditionals
 M5 - 03 - Loops
 
 M5 - 04 - Functions
+
+SpaseX - 2 - EDA
