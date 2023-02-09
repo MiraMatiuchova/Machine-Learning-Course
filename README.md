@@ -13,7 +13,7 @@ M5 - 04 - Functions in python
 
 Day 2 - Tuesday
 
-SpaceX - 2 - EDA
+SpaceX - 1 - Predict if a falcon 9 will land successfully or not
 
 Day 3 - Wednesday
 
