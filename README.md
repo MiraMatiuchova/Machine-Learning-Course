@@ -5,14 +5,18 @@ Day 1 - Monday
 
 M5 - 01 - Python Notebook
 
-M5 - 02 - Conditionals
+M5 - 02 - Conditionals in python
 
-M5 - 03 - Loops
+M5 - 03 - Loops in python
 
-M5 - 04 - Functions
+M5 - 04 - Functions in python
+
+Day 2 - Tuesday
 
 SpaceX - 2 - EDA
 
-M5 - 09 - Folium in python
+Day 3 - Wednesday
+
+M5 - 09 - Folium in python (creating different type of maps)
 
 M5 - 10 - Prophet - Bitcoin price prediction
