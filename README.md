@@ -12,3 +12,7 @@ M5 - 03 - Loops
 M5 - 04 - Functions
 
 SpaceX - 2 - EDA
+
+M5 - 09 - Folium in python
+
+M5 - 10 - Prophet - Bitcoin price prediction
