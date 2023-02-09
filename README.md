@@ -17,6 +17,8 @@ SpaceX - 1 - Predict if a falcon 9 will land successfully or not
 
 Day 3 - Wednesday
 
+M5 - 06 - Introduction to Machine Learning
+
 M5 - 09 - Folium in python (creating different type of maps)
 
 M5 - 10 - Prophet - Bitcoin price prediction
