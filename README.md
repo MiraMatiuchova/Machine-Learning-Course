@@ -23,6 +23,6 @@ M5 - 09 - Folium in python (creating different type of maps)
 
 M5 - 10 - Prophet - Bitcoin price prediction
 
-Day4
+Day 4 - Thursday
 
 SpaceX - Machine Learning Predictions with different models 
